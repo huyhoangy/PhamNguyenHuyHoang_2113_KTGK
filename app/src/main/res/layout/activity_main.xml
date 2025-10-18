@@ -66,7 +66,7 @@
             android:text="Cân nặng" />
 
         <EditText
-            android:id="@+id/editTextText2"
+            android:id="@+id/ettNang"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
